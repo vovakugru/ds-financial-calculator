@@ -2,7 +2,7 @@
 
 --- 
 
-### To launch online:
+### To see online:
 [Click here](https://vovakugru.github.io/)
 
 ### To launch localy:
